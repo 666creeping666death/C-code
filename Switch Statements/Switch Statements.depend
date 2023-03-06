@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678040617 source:c:\users\geoff\desktop\switch statements\main.c
+	<stdio.h>
+	<stdlib.h>
+

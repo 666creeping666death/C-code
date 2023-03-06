@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678021308 source:c:\users\geoff\desktop\if statement\main.c
+	<stdio.h>
+	<stdlib.h>
+

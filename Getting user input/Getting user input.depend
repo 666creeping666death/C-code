@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677705526 source:c:\users\geoff\desktop\getting user input\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678198372 source:c:\users\geoff\desktop\building a guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1678199324 source:c:\users\geoff\desktop\c code\building a guessing game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

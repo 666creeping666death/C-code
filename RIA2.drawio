@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T09:16:12.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Nii3XLEWL8O89bAyQriA" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T09:17:22.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Vgq3bYJjtgFQcvbky20z" version="21.6.2" type="github">
   <diagram name="Page-1" id="1OkXnoBN4lo6xH4HQfAN">
     <mxGraphModel dx="2500" dy="1532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -367,11 +367,11 @@
             <mxPoint x="449" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZ60xeAcuP9uUxkzPjt6-130" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Average in &quot;input&quot; interval&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;rotation=328;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1847" width="181.82" height="30" as="geometry" />
+        <mxCell id="CZ60xeAcuP9uUxkzPjt6-130" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Average in &quot;input(2)&quot; interval&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;rotation=328;" vertex="1" parent="1">
+          <mxGeometry x="310.6" y="1852.56" width="202.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ60xeAcuP9uUxkzPjt6-131" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Average in &quot;input&quot; interval&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;rotation=32;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="999" y="1847" width="181.82" height="30" as="geometry" />
+        <mxCell id="CZ60xeAcuP9uUxkzPjt6-131" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Average in &quot;input(2)&quot; interval&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;rotation=32;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="997.62" y="1851.82" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CZ60xeAcuP9uUxkzPjt6-132" value="" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

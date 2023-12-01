@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T11:22:04.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="MRyTczf8Zwz4U2p7fqKy" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T11:24:05.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="CkoQxdWeOJ12YvdN8gW_" version="22.1.5" type="github">
   <diagram name="Page-1" id="1OkXnoBN4lo6xH4HQfAN">
-    <mxGraphModel dx="1900" dy="4409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="4306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1118,8 +1118,8 @@
         <mxCell id="eUq0YB-lhpFFLEaqsIbm-67" value="Pig-tail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="173" y="-3316" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eUq0YB-lhpFFLEaqsIbm-69" value="Sample" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="495.13" y="-3186" width="60" height="30" as="geometry" />
+        <mxCell id="eUq0YB-lhpFFLEaqsIbm-69" value="&lt;div&gt;Thermal &lt;br&gt;&lt;/div&gt;&lt;div&gt;plate&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="-3247" width="79.25" height="51" as="geometry" />
         </mxCell>
         <mxCell id="eUq0YB-lhpFFLEaqsIbm-72" value="&lt;div&gt;spectra suite (IR)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="350.63" y="-2997" width="196" height="109" as="geometry" />
@@ -1228,6 +1228,12 @@
         </mxCell>
         <mxCell id="eUq0YB-lhpFFLEaqsIbm-100" value="Pig-tail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
           <mxGeometry x="173" y="-3190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eUq0YB-lhpFFLEaqsIbm-101" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="-3243.5" width="87" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="eUq0YB-lhpFFLEaqsIbm-102" value="Sample" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="505.13" y="-3176" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
